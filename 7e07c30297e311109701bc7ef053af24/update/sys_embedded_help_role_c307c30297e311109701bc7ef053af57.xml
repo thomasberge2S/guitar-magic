@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_509809_guitar_0.guitar_admin" name="x_509809_guitar_0.guitar_admin">4707c30297e311109701bc7ef053af56</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>bergeth</sys_created_by>
+        <sys_created_on>2022-12-05 11:11:28</sys_created_on>
+        <sys_id>c307c30297e311109701bc7ef053af57</sys_id>
+        <sys_name>4707c30297e311109701bc7ef053af56</sys_name>
+        <sys_package display_value="Guitar Magic" source="x_509809_guitar_0">7e07c30297e311109701bc7ef053af24</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Guitar Magic">7e07c30297e311109701bc7ef053af24</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c307c30297e311109701bc7ef053af57</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
